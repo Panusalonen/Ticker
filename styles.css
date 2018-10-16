@@ -1,0 +1,22 @@
+* {
+    background: white;
+}
+#box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+    height: 150px;
+    border: 7px solid blue;
+    position: absolute;
+    bottom: 260px;
+    left: 100%;
+    background-color: red;
+    white-space: nowrap;
+}
+
+#box a {
+    background-color: red;
+    color: white;
+    padding-right: 50px;
+}
